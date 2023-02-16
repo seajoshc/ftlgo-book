@@ -1,3 +1,8 @@
-site_name: Josh's Go Journal
+site_name: seajoshc/go
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
