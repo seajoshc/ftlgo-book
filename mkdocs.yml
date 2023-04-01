@@ -1,0 +1,25 @@
+site_name: seajoshc go journal
+extra:
+  homepage: https://p4a.net
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/seajoshc
+    - icon: fontawesome/brands/linkedin 
+      link: https://linkedin.com/in/seajoshc
+plugins:
+  - search
+theme:
+  name: material
+  favicon: images/user-astronaut-solid.svg
+  icon:
+    logo: fontawesome/solid/user-astronaut
+  palette:
+    scheme: slate
+    primary: blue grey
+    accent: teal
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
